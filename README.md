@@ -13,3 +13,13 @@ This repository contains the Power BI report. Dashboard screenshots will be adde
 ## Requirements
 
 - Power BI Desktop
+
+## Dashboard previews
+
+### Facebook
+
+![Meta Ads Facebook dashboard](screenshots/01-facebook-performance.png)
+
+### Instagram
+
+![Meta Ads Instagram dashboard](screenshots/02-instagram-performance.png)
