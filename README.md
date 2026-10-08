@@ -1,18 +1,10 @@
 # Meta Ads Performance Dashboard
 
-A Power BI report reviewing Meta advertising campaign performance.
+A Power BI report comparing Facebook and Instagram advertising performance.
 
-## Report
+## Power BI report
 
-Open [`Meta Ad Performance Analysis.pbix`](Meta Ad Performance Analysis.pbix) in Power BI Desktop.
-
-## Notes
-
-This repository contains the Power BI report. Dashboard screenshots will be added after the report pages are captured and reviewed.
-
-## Requirements
-
-- Power BI Desktop
+Download and open [`Meta_Ad_Performance_Analysis.pbix`](Meta_Ad_Performance_Analysis.pbix) in Power BI Desktop.
 
 ## Dashboard previews
 
@@ -23,3 +15,7 @@ This repository contains the Power BI report. Dashboard screenshots will be adde
 ### Instagram
 
 ![Meta Ads Instagram dashboard](screenshots/02-instagram-performance.png)
+
+## Requirements
+
+- Power BI Desktop
